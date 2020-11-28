@@ -1,6 +1,6 @@
-HANGMAN
+HANGMAN THE GAME
 
-INTRODUCTION
+RULES
 
 *1 Enter your names;
 
