@@ -1,5 +1,5 @@
-HANGMAN
-#INTRODUCTION
+HANGMAN/n
+#INTRODUCTION/n
 #1 Enter your names;
 #2 Enter the Word you want to be guessed;
 #3 You got 12 chances to guess;
